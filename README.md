@@ -1,7 +1,7 @@
 # Multi-Modal-ChatBot
 
 
-Thw Project defines a series of functions to create and execute different types of AI-driven chains using the LangChain framework, including `text-based decision chains`, `text-to-text`, `text-to-code`, `image-to-text`, and `text-to-image` generation. It leverages various models such as `llama3`, `codellama`, and `llava` from the `ChatOllama` suite and integrates OpenAI's `DALL-e` for image generation. The process involves creating prompt templates with specific rules and using these templates to process user queries through defined chains.
+The Project defines a series of functions to create and execute different types of AI-driven chains using the LangChain framework, including `text-based decision chains`, `text-to-text`, `text-to-code`, `image-to-text`, and `text-to-image` generation. It leverages various models such as `llama3`, `codellama`, and `llava` from the `ChatOllama` suite and integrates OpenAI's `DALL-e` for image generation. The process involves creating prompt templates with specific rules and using these templates to process user queries through defined chains.
 ## Project Structure
 
 - `app.py`: This is the main script that contains the streamlit app.
